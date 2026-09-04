@@ -1,4 +1,8 @@
-# Rosa RSSI Portal Tracker
+# RSSI Portal Tracker
+
+<img width="302" height="656" alt="image0" src="https://github.com/user-attachments/assets/1409abce-6eeb-4820-84df-d39c357217ba" />
+
+
 
 A small Wi-Fi localization demo built for a controlled cybersecurity/maker experiment.
 
